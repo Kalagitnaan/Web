@@ -323,6 +323,18 @@ html ::-webkit-scrollbar{
     transition: all 0.3s ease;
   }
 
+#Our Pastries .btn-primary {
+    background-color: yellow;
+    color: black;
+    border: none;
+    transition: all 0.3s ease;
+  }
+
+#Our Pastries .btn-primary:hover {
+    background-color: #ffc107;
+    color: black;
+  }
+
   #beverages .btn-primary:hover {
     background-color: #ffc107;
     color: black;
