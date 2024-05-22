@@ -323,14 +323,14 @@ html ::-webkit-scrollbar{
     transition: all 0.3s ease;
   }
 
-#Our Pastries .btn-primary {
+#menu .btn-primary {
     background-color: yellow;
     color: black;
     border: none;
     transition: all 0.3s ease;
   }
 
-#Our Pastries .btn-primary:hover {
+#menu .btn-primary:hover {
     background-color: #ffc107;
     color: black;
   }
